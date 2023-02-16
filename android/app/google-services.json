@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738749666978",
+    "project_id": "nativefbproject",
+    "storage_bucket": "nativefbproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738749666978:android:c1ba45bf66d9e0cb7b29fb",
+        "android_client_info": {
+          "package_name": "com.mynativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738749666978-vm1af9vkasjsucdkmi9silp76ap3v721.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5gw6P5w_5FTK5RAFRiq70kNbKgyQwpcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738749666978-vm1af9vkasjsucdkmi9silp76ap3v721.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
